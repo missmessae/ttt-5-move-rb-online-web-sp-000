@@ -13,6 +13,5 @@ input_to_index(input)
 index = input_to_index
 
 move(board, index, "X")
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 display_board(board)
